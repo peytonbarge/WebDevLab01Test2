@@ -47,8 +47,8 @@ st.write("Welcome to my interactive website, a fun and personalized reflection o
 
 st.write('🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸')
 
-image_path = "C:/Users/pkbar/Downloads/WebDevLab01/WebDevLab01/images/homepage.jpg"
-st.image(image_path, caption="My favorite moments", use_container_width=True)
+
+st.image("images/homepage.jpg", caption="My favorite moments", use_container_width=True)
 image_path = "WebDevLab01/images/homepage.jpg"
 
 
